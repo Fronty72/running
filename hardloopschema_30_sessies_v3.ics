@@ -1,366 +1,244 @@
 BEGIN:VCALENDAR
-PRODID:-//ChatGPT//Hardlopen Leine 30 Sessies//NL
 VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
+PRODID:-//ChatGPT//Hardloopschema 30 sessies aangepast//NL
 BEGIN:VEVENT
-UID:6b3e5f0c-ea77-4826-8a04-0340d64c5062@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-1@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251014T173000Z
 DTEND:20251014T183000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 1
-DESCRIPTION:Hardloopschema – sessie 1 van 30.
-Start (lokaal): 2025-10-14 19:30 (CEST)
-
-Muziek: https://drive.google.com/uc?export=download&id=1tLbeUwzVth1gFGjWFF3Zf-8nP_b_FzPE
-URL:https://drive.google.com/uc?export=download&id=1tLbeUwzVth1gFGjWFF3Zf-8nP_b_FzPE
+SUMMARY:Hardlopen Leine - Sessie 1 van 30
+DESCRIPTION:Hardloopschema – sessie 1 van 30.\nStart (lokaal): 14-10-2025 19:30 (CEST)
 END:VEVENT
 BEGIN:VEVENT
-UID:6b75a6f3-b9f8-4f4e-a822-b3cf225bad90@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-2@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251017T140000Z
 DTEND:20251017T150000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 2
-DESCRIPTION:Hardloopschema – sessie 2 van 30.
-Start (lokaal): 2025-10-17 16:00 (CEST)
-
-Muziek: https://drive.google.com/uc?export=download&id=11jyRNEoQgBRSDC8341jVRhu1I_X3vug0
-URL:https://drive.google.com/uc?export=download&id=11jyRNEoQgBRSDC8341jVRhu1I_X3vug0
+SUMMARY:Hardlopen Leine - Sessie 2 van 30
+DESCRIPTION:Hardloopschema – sessie 2 van 30.\nStart (lokaal): 17-10-2025 16:00 (CEST)
 END:VEVENT
 BEGIN:VEVENT
-UID:9dfe2c37-a1f5-44fa-be8f-7708a4a3c052@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-3@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251019T083000Z
 DTEND:20251019T093000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 3
-DESCRIPTION:Hardloopschema – sessie 3 van 30.
-Start (lokaal): 2025-10-19 10:30 (CEST)
-
-Muziek: https://drive.google.com/uc?export=download&id=19qBLAwUv2ZUgbi30GKz2E-v-EFIeJzX7
-URL:https://drive.google.com/uc?export=download&id=19qBLAwUv2ZUgbi30GKz2E-v-EFIeJzX7
+SUMMARY:Hardlopen Leine - Sessie 3 van 30
+DESCRIPTION:Hardloopschema – sessie 3 van 30.\nStart (lokaal): 19-10-2025 10:30 (CEST)
 END:VEVENT
 BEGIN:VEVENT
-UID:633f8784-1b84-44e2-8c62-7867105dd275@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-4@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251021T173000Z
 DTEND:20251021T183000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 4
-DESCRIPTION:Hardloopschema – sessie 4 van 30.
-Start (lokaal): 2025-10-21 19:30 (CEST)
-
-Muziek: https://drive.google.com/uc?export=download&id=1ei7teKpRtThwHmI-R4cox_cgsytWp-xv
-URL:https://drive.google.com/uc?export=download&id=1ei7teKpRtThwHmI-R4cox_cgsytWp-xv
+SUMMARY:Hardlopen Leine - Sessie 4 van 30
+DESCRIPTION:Hardloopschema – sessie 4 van 30.\nStart (lokaal): 21-10-2025 19:30 (CEST)
 END:VEVENT
 BEGIN:VEVENT
-UID:41bf0952-6080-40f1-a198-fd2cee212cc5@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-5@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251024T140000Z
 DTEND:20251024T150000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 5
-DESCRIPTION:Hardloopschema – sessie 5 van 30.
-Start (lokaal): 2025-10-24 16:00 (CEST)
-
-Muziek: https://drive.google.com/uc?export=download&id=1Idl2E9zDtQRAiNcFbcAGdKeZzhZ4enM7
-URL:https://drive.google.com/uc?export=download&id=1Idl2E9zDtQRAiNcFbcAGdKeZzhZ4enM7
+SUMMARY:Hardlopen Leine - Sessie 5 van 30
+DESCRIPTION:Hardloopschema – sessie 5 van 30.\nStart (lokaal): 24-10-2025 16:00 (CEST)
 END:VEVENT
 BEGIN:VEVENT
-UID:104e8c1c-9571-4936-9aa3-eceff677b6ba@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-6@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251026T093000Z
 DTEND:20251026T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 6
-DESCRIPTION:Hardloopschema – sessie 6 van 30.
-Start (lokaal): 2025-10-26 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1fin1mSTuNE_MlOcti-yIlwApVjIb-pfo
-URL:https://drive.google.com/uc?export=download&id=1fin1mSTuNE_MlOcti-yIlwApVjIb-pfo
+SUMMARY:Hardlopen Leine - Sessie 6 van 30
+DESCRIPTION:Hardloopschema – sessie 6 van 30.\nStart (lokaal): 26-10-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:747bb13d-5af2-43ab-b901-85c0a4091aca@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-7@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251028T183000Z
 DTEND:20251028T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 7
-DESCRIPTION:Hardloopschema – sessie 7 van 30.
-Start (lokaal): 2025-10-28 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1THc1Sqmp7hoKAMtFKU5mOZ0wFUX9MCnx
-URL:https://drive.google.com/uc?export=download&id=1THc1Sqmp7hoKAMtFKU5mOZ0wFUX9MCnx
+SUMMARY:Hardlopen Leine - Sessie 7 van 30
+DESCRIPTION:Hardloopschema – sessie 7 van 30.\nStart (lokaal): 28-10-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:738a0912-048f-4fe8-8cb8-7b909381dcb0@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-8@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251031T150000Z
 DTEND:20251031T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 8
-DESCRIPTION:Hardloopschema – sessie 8 van 30.
-Start (lokaal): 2025-10-31 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1gve4wTH3zoXmucCgqtHLAUa_laOO6kx3
-URL:https://drive.google.com/uc?export=download&id=1gve4wTH3zoXmucCgqtHLAUa_laOO6kx3
+SUMMARY:Hardlopen Leine - Sessie 8 van 30
+DESCRIPTION:Hardloopschema – sessie 8 van 30.\nStart (lokaal): 31-10-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:30e3cd7c-2a01-4c4c-ab20-35eb126edb75@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-9@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251102T093000Z
 DTEND:20251102T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 9
-DESCRIPTION:Hardloopschema – sessie 9 van 30.
-Start (lokaal): 2025-11-02 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1nRwrzCBc4hkEMFjjQjm6-RBZfv20TG7u
-URL:https://drive.google.com/uc?export=download&id=1nRwrzCBc4hkEMFjjQjm6-RBZfv20TG7u
+SUMMARY:Hardlopen Leine - Sessie 9 van 30
+DESCRIPTION:Hardloopschema – sessie 9 van 30.\nStart (lokaal): 02-11-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:df96f84f-c60e-476a-9c44-4abf1848672f@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-10@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251104T183000Z
 DTEND:20251104T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 10
-DESCRIPTION:Hardloopschema – sessie 10 van 30.
-Start (lokaal): 2025-11-04 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1e72RURlD23ENCQx6d0IZ4ERJPkbfIZjF
-URL:https://drive.google.com/uc?export=download&id=1e72RURlD23ENCQx6d0IZ4ERJPkbfIZjF
+SUMMARY:Hardlopen Leine - Sessie 10 van 30
+DESCRIPTION:Hardloopschema – sessie 10 van 30.\nStart (lokaal): 04-11-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:914df5ef-33f7-4b72-b1a0-903653636758@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-11@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251107T150000Z
 DTEND:20251107T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 11
-DESCRIPTION:Hardloopschema – sessie 11 van 30.
-Start (lokaal): 2025-11-07 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1CKUFJ1O7wnxeruCHb6gR7alBDfKAgOS4
-URL:https://drive.google.com/uc?export=download&id=1CKUFJ1O7wnxeruCHb6gR7alBDfKAgOS4
+SUMMARY:Hardlopen Leine - Sessie 11 van 30
+DESCRIPTION:Hardloopschema – sessie 11 van 30.\nStart (lokaal): 07-11-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:9ceb3a07-8215-4237-8442-10128c0213da@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-12@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251109T093000Z
 DTEND:20251109T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 12
-DESCRIPTION:Hardloopschema – sessie 12 van 30.
-Start (lokaal): 2025-11-09 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1VJBw0LvxUiKAfatIHarlmUP6DAxNCGI0
-URL:https://drive.google.com/uc?export=download&id=1VJBw0LvxUiKAfatIHarlmUP6DAxNCGI0
+SUMMARY:Hardlopen Leine - Sessie 12 van 30
+DESCRIPTION:Hardloopschema – sessie 12 van 30.\nStart (lokaal): 09-11-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:bde72479-ad34-4282-932f-a8a0a48a923c@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-13@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251111T183000Z
 DTEND:20251111T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 13
-DESCRIPTION:Hardloopschema – sessie 13 van 30.
-Start (lokaal): 2025-11-11 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1qUWp3XiBt2JdQv1YP2G0RXMDRywrwvEw
-URL:https://drive.google.com/uc?export=download&id=1qUWp3XiBt2JdQv1YP2G0RXMDRywrwvEw
+SUMMARY:Hardlopen Leine - Sessie 13 van 30
+DESCRIPTION:Hardloopschema – sessie 13 van 30.\nStart (lokaal): 11-11-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:8a94362b-a0f5-480d-b0bb-419633e9b381@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-14@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251114T150000Z
 DTEND:20251114T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 14
-DESCRIPTION:Hardloopschema – sessie 14 van 30.
-Start (lokaal): 2025-11-14 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=12iJpkxaV49_61Ga_uI2_Rp4m2KU3akAj
-URL:https://drive.google.com/uc?export=download&id=12iJpkxaV49_61Ga_uI2_Rp4m2KU3akAj
+SUMMARY:Hardlopen Leine - Sessie 14 van 30
+DESCRIPTION:Hardloopschema – sessie 14 van 30.\nStart (lokaal): 14-11-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:bef11ab1-4c00-42c4-afd6-f93c49552194@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-15@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251116T093000Z
 DTEND:20251116T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 15
-DESCRIPTION:Hardloopschema – sessie 15 van 30.
-Start (lokaal): 2025-11-16 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1lu3CKTAvBkc7YZtZ7mMU5ZNd-8zEa7St
-URL:https://drive.google.com/uc?export=download&id=1lu3CKTAvBkc7YZtZ7mMU5ZNd-8zEa7St
+SUMMARY:Hardlopen Leine - Sessie 15 van 30
+DESCRIPTION:Hardloopschema – sessie 15 van 30.\nStart (lokaal): 16-11-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:1132cbfe-ac22-47f6-b087-60f3af96f554@hardlopen-leine
-DTSTAMP:20251012T145843Z
-DTSTART:20251118T183000Z
-DTEND:20251118T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 16
-DESCRIPTION:Hardloopschema – sessie 16 van 30.
-Start (lokaal): 2025-11-18 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1pGhcw25HjNLh_bWIzpTa8XwwLYot-MjU
-URL:https://drive.google.com/uc?export=download&id=1pGhcw25HjNLh_bWIzpTa8XwwLYot-MjU
-END:VEVENT
-BEGIN:VEVENT
-UID:9761ae55-684b-4068-ba03-df13a821fb12@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-16@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251121T150000Z
 DTEND:20251121T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 17
-DESCRIPTION:Hardloopschema – sessie 17 van 30.
-Start (lokaal): 2025-11-21 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1uEZb5bOfaAb5ZTZ3xsOaRb5w2-IAqWRS
-URL:https://drive.google.com/uc?export=download&id=1uEZb5bOfaAb5ZTZ3xsOaRb5w2-IAqWRS
+SUMMARY:Hardlopen Leine - Sessie 16 van 30
+DESCRIPTION:Hardloopschema – sessie 16 van 30.\nStart (lokaal): 21-11-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:5395ce7c-0052-4c8b-9da8-4fae57659f8c@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-17@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251123T093000Z
 DTEND:20251123T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 18
-DESCRIPTION:Hardloopschema – sessie 18 van 30.
-Start (lokaal): 2025-11-23 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1swwAhkdI9UYy_KJE6uaPiYkFt04MR1Tv
-URL:https://drive.google.com/uc?export=download&id=1swwAhkdI9UYy_KJE6uaPiYkFt04MR1Tv
+SUMMARY:Hardlopen Leine - Sessie 17 van 30
+DESCRIPTION:Hardloopschema – sessie 17 van 30.\nStart (lokaal): 23-11-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:d6a67366-2499-4155-ba6f-d387091475f5@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-18@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251125T183000Z
 DTEND:20251125T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 19
-DESCRIPTION:Hardloopschema – sessie 19 van 30.
-Start (lokaal): 2025-11-25 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1dsYpP5MTjH7e09Iw-8pLjMFY5vfD7jYZ
-URL:https://drive.google.com/uc?export=download&id=1dsYpP5MTjH7e09Iw-8pLjMFY5vfD7jYZ
+SUMMARY:Hardlopen Leine - Sessie 18 van 30
+DESCRIPTION:Hardloopschema – sessie 18 van 30.\nStart (lokaal): 25-11-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:17132aee-86ef-4673-a259-a7fb206d2f3b@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-19@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251128T150000Z
 DTEND:20251128T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 20
-DESCRIPTION:Hardloopschema – sessie 20 van 30.
-Start (lokaal): 2025-11-28 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1D7puyOTLgsBkomGw-7kCZDuqWJ7MuR2K
-URL:https://drive.google.com/uc?export=download&id=1D7puyOTLgsBkomGw-7kCZDuqWJ7MuR2K
+SUMMARY:Hardlopen Leine - Sessie 19 van 30
+DESCRIPTION:Hardloopschema – sessie 19 van 30.\nStart (lokaal): 28-11-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:99e300df-7a17-421d-82f9-3830fa1d3625@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-20@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251130T093000Z
 DTEND:20251130T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 21
-DESCRIPTION:Hardloopschema – sessie 21 van 30.
-Start (lokaal): 2025-11-30 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1VpEBlWfNS4yMw9ZqvdudaYnmpUBQrDQ6
-URL:https://drive.google.com/uc?export=download&id=1VpEBlWfNS4yMw9ZqvdudaYnmpUBQrDQ6
+SUMMARY:Hardlopen Leine - Sessie 20 van 30
+DESCRIPTION:Hardloopschema – sessie 20 van 30.\nStart (lokaal): 30-11-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:cf83b243-a84f-4718-8a5e-a462983a2b3e@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-21@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251202T183000Z
 DTEND:20251202T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 22
-DESCRIPTION:Hardloopschema – sessie 22 van 30.
-Start (lokaal): 2025-12-02 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=17iV5tHFGuAbAj2YGkSuTPkT29Bz47srZ
-URL:https://drive.google.com/uc?export=download&id=17iV5tHFGuAbAj2YGkSuTPkT29Bz47srZ
+SUMMARY:Hardlopen Leine - Sessie 21 van 30
+DESCRIPTION:Hardloopschema – sessie 21 van 30.\nStart (lokaal): 02-12-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:ed8c5475-9fc4-46c7-a4ff-35cbdc07a984@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-22@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251205T150000Z
 DTEND:20251205T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 23
-DESCRIPTION:Hardloopschema – sessie 23 van 30.
-Start (lokaal): 2025-12-05 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1tjCub9prRDVn4vz_8DqVqUaZ9YlyeBAn
-URL:https://drive.google.com/uc?export=download&id=1tjCub9prRDVn4vz_8DqVqUaZ9YlyeBAn
+SUMMARY:Hardlopen Leine - Sessie 22 van 30
+DESCRIPTION:Hardloopschema – sessie 22 van 30.\nStart (lokaal): 05-12-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:a22070e5-f706-4f76-8c05-2cdcc2deca78@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-23@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251207T093000Z
 DTEND:20251207T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 24
-DESCRIPTION:Hardloopschema – sessie 24 van 30.
-Start (lokaal): 2025-12-07 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1AV6ThsZAVm0HEYmu5VQrV20b1xr5Pi5-
-URL:https://drive.google.com/uc?export=download&id=1AV6ThsZAVm0HEYmu5VQrV20b1xr5Pi5-
+SUMMARY:Hardlopen Leine - Sessie 23 van 30
+DESCRIPTION:Hardloopschema – sessie 23 van 30.\nStart (lokaal): 07-12-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:947579ef-9840-40e9-9099-6a5a62418130@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-24@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251209T183000Z
 DTEND:20251209T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 25
-DESCRIPTION:Hardloopschema – sessie 25 van 30.
-Start (lokaal): 2025-12-09 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1l1Zqo_NaSlVZvwF30WvV9ZVHxsNaQGZK
-URL:https://drive.google.com/uc?export=download&id=1l1Zqo_NaSlVZvwF30WvV9ZVHxsNaQGZK
+SUMMARY:Hardlopen Leine - Sessie 24 van 30
+DESCRIPTION:Hardloopschema – sessie 24 van 30.\nStart (lokaal): 09-12-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:2fc43101-b6ec-4e02-86ce-7fd3abf49b81@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-25@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251212T150000Z
 DTEND:20251212T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 26
-DESCRIPTION:Hardloopschema – sessie 26 van 30.
-Start (lokaal): 2025-12-12 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1T1FL8INtBNTfrZ52t6Z4x57_hjinkb0m
-URL:https://drive.google.com/uc?export=download&id=1T1FL8INtBNTfrZ52t6Z4x57_hjinkb0m
+SUMMARY:Hardlopen Leine - Sessie 25 van 30
+DESCRIPTION:Hardloopschema – sessie 25 van 30.\nStart (lokaal): 12-12-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:2c4244f1-9b49-4c9d-a790-b0fe792bb8b6@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-26@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251214T093000Z
 DTEND:20251214T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 27
-DESCRIPTION:Hardloopschema – sessie 27 van 30.
-Start (lokaal): 2025-12-14 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1p9KGxFYh3CDnsUOrlXvjowTuB9I6pUor
-URL:https://drive.google.com/uc?export=download&id=1p9KGxFYh3CDnsUOrlXvjowTuB9I6pUor
+SUMMARY:Hardlopen Leine - Sessie 26 van 30
+DESCRIPTION:Hardloopschema – sessie 26 van 30.\nStart (lokaal): 14-12-2025 10:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:bf3621bd-d16f-4e08-8d10-3419cb776bb4@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-27@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251216T183000Z
 DTEND:20251216T193000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 28
-DESCRIPTION:Hardloopschema – sessie 28 van 30.
-Start (lokaal): 2025-12-16 19:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1SnS2eesjFXgEoLFn8wIT-IlJmq5TgQcn
-URL:https://drive.google.com/uc?export=download&id=1SnS2eesjFXgEoLFn8wIT-IlJmq5TgQcn
+SUMMARY:Hardlopen Leine - Sessie 27 van 30
+DESCRIPTION:Hardloopschema – sessie 27 van 30.\nStart (lokaal): 16-12-2025 19:30 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:7a9a6055-052b-4c61-85f0-ac8e894f2308@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-28@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251219T150000Z
 DTEND:20251219T160000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 29
-DESCRIPTION:Hardloopschema – sessie 29 van 30.
-Start (lokaal): 2025-12-19 16:00 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1DauCDVJAxpCrlAVCYAj8JUr4wMxPerzN
-URL:https://drive.google.com/uc?export=download&id=1DauCDVJAxpCrlAVCYAj8JUr4wMxPerzN
+SUMMARY:Hardlopen Leine - Sessie 28 van 30
+DESCRIPTION:Hardloopschema – sessie 28 van 30.\nStart (lokaal): 19-12-2025 16:00 (CET)
 END:VEVENT
 BEGIN:VEVENT
-UID:79e5461c-b06b-488c-b096-ead5d546aff4@hardlopen-leine
-DTSTAMP:20251012T145843Z
+UID:hardlopen-leine-sessie-29@example.com
+DTSTAMP:20251120T120000Z
 DTSTART:20251221T093000Z
 DTEND:20251221T103000Z
-SUMMARY:🏃‍♀️Hardlopen Leine - Sessie 30
-DESCRIPTION:Hardloopschema – sessie 30 van 30.
-Start (lokaal): 2025-12-21 10:30 (CET)
-
-Muziek: https://drive.google.com/uc?export=download&id=1uU7PwOkcV3ThQ6mpN0pPB4rS5iy20jiG
-URL:https://drive.google.com/uc?export=download&id=1uU7PwOkcV3ThQ6mpN0pPB4rS5iy20jiG
+SUMMARY:Hardlopen Leine - Sessie 29 van 30
+DESCRIPTION:Hardloopschema – sessie 29 van 30.\nStart (lokaal): 21-12-2025 10:30 (CET)
+END:VEVENT
+BEGIN:VEVENT
+UID:hardlopen-leine-sessie-30@example.com
+DTSTAMP:20251120T120000Z
+DTSTART:20251223T183000Z
+DTEND:20251223T193000Z
+SUMMARY:Hardlopen Leine - Sessie 30 van 30
+DESCRIPTION:Hardloopschema – sessie 30 van 30.\nStart (lokaal): 23-12-2025 19:30 (CET)
 END:VEVENT
 END:VCALENDAR
