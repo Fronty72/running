@@ -303,7 +303,6 @@ SUMMARY:♀️Hardlopen Leine - Sessie 30 - 5km
 DESCRIPTION:Hardloopschema – sessie 30 van 30. Start (lokaal): 2026-01-04 10:30 (CET). Muziek: https://drive.google.com/uc?export=download&id=1uU7PwOkcV3ThQ6mpN0pPB4rS5iy20jiG
 URL:https://drive.google.com/uc?export=download&id=1uU7PwOkcV3ThQ6mpN0pPB4rS5iy20jiG
 END:VEVENT
-
 BEGIN:VEVENT
 UID:534394d6-cbe9-4c56-9870-0b047e22536a@hardlopen-leine
 DTSTAMP:20251230T000000Z
@@ -574,4 +573,16 @@ SUMMARY:♀️Hardlopen Leine - Sessie 30 - 10 km
 DESCRIPTION:Hardloopschema – sessie 30 van 30. Start (lokaal): 2026-03-15 10:30 (CET).
 END:VEVENT
 
+BEGIN:VEVENT
+UID:9e8a760c-1faf-494a-bce5-c52c3b50bafe@hardlopen-leine
+DTSTAMP:20260105T000000Z
+DTSTART:20260315T141000Z
+DTEND:20260315T154000Z
+SUMMARY:♀️Hardlopen Leine -CPC - 10KM 🏅🏆
+DESCRIPTION:Deze Haagse loopklassieker is de slagroom op het toetje van jouw voorbereiding vandaag
+LOCATION:Koningskade, Den Haag
+CLASS:PUBLIC
+CATEGORIES:Wedstrijd,Hardlopen,Race
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
